@@ -1,0 +1,13 @@
+body{
+  background-color: #a1caf1;
+}
+h1{
+  text-shadow: 5px 5px 5px white, -2px -2px #7d8a97; 
+}
+.SkillsInput{
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 17em;
+  height: 11em;
+  margin: auto;
+}
